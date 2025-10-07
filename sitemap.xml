@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <sitemap>
-    <loc>https://raofujie.github.io/aboutme/sitemap.xml</loc>
-    <lastmod>2025-09-22</lastmod>
-  </sitemap>
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://raofujie.github.io/aboutme/</loc></url>
+  <url><loc>https://raofujie.github.io/aboutme/Experience.html</loc></url>
+  <url><loc>https://raofujie.github.io/aboutme/Research.html</loc></url>
+  <url><loc>https://raofujie.github.io/aboutme/Teaching.html</loc></url>
+  <url><loc>https://raofujie.github.io/aboutme/Services.html</loc></url>
+</urlset>
